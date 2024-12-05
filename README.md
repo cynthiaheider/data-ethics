@@ -1,4 +1,4 @@
-# TOC: Data Basics: Ethically Making & Sharing Data
+# TOC: "Data Basics: Ethically Making & Sharing Data" workshop
 
 ## Themes
 ### Data Integrity vs. Bias & Potential for Misuse
